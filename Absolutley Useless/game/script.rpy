@@ -39,7 +39,10 @@ label start:
                  
     "The game will never return to the menu, it's not finished..."    
 
-
     "You can finish it from the github repository, and add your name in the script as a comment.
     
     "Go and finish the game, you're the only hope!"
+    
+    
+
+    
